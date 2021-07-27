@@ -1,2 +1,3 @@
-# Jebac-Lige
-Strona poświęcona jebaniu Ligi
+# Jebac Lige
+<b>Jebać Ligę</b> </br>
+<s>Głópia jest ta gra!</s>
