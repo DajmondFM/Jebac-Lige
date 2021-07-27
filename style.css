@@ -1,0 +1,14 @@
+body {
+    font-size: 350px;
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Kalam', cursive;
+    background-color: blue;
+}
+#audio {
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;
+    background-color: rgb(14, 14, 230);
+}
